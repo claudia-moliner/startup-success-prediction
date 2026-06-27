@@ -1,6 +1,6 @@
 # Predicting Startup Success with Twitter Traction
 
-A data mining project that investigates whether **Twitter activity and engagement metrics can predict startup success** — defined as advancing from the Inception stage to the next funding round.
+A data mining project that investigates whether **Twitter activity and engagement metrics can predict startup success** defined as advancing from the Inception stage to the next funding round.
 
 Built for a real investment scenario: a fund with €1.25M capital and 5 investment slots.
 
