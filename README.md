@@ -49,10 +49,10 @@ Early-stage investors face a fundamental challenge: at the Inception stage, star
 
 Beyond standard ML metrics, this project includes a full **investment decision framework:**
 
-- **Profit Curve** — shows expected fund value at each funding threshold
-- **ROC/AUC** — measures model reliability across all thresholds
-- **Lift Curve** — shows how much better the model is vs random selection
-- **Portfolio Selection** — picks the top 5 startups by predicted probability
+- **Profit Curve**: shows expected fund value at each funding threshold
+- **ROC/AUC**: measures model reliability across all thresholds
+- **Lift Curve**: shows how much better the model is vs random selection
+- **Portfolio Selection**: picks the top 5 startups by predicted probability
 
 The asymmetric cost structure (missing a unicorn costs as much as 9 failures) shaped the entire modelling strategy.
 
